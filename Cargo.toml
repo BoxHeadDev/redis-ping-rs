@@ -1,7 +1,9 @@
 [workspace]
 members = [
     "basic-io",
-    "serde-io"
-]
+    "basic-io-server",
+    "serde-io",
+    "serde-io-server"
+    ]
 
 resolver = "3"  # Enable the resolver that matches edition 2024
