@@ -1,5 +1,8 @@
 # Ignore target directories from all Rust workspaces
+/target
 **/target/
 
 # Ignore Cargo.lock in libraries (not in binaries)
+/Cargo.lock
 **/Cargo.lock
+
