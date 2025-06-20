@@ -1,8 +1,8 @@
 [workspace]
 members = [
-    "basic-io",
+    "basic-io-client",
     "basic-io-server",
-    "serde-io",
+    "serde-io-client",
     "serde-io-server"
     ]
 

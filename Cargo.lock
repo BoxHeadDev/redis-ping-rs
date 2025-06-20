@@ -3,9 +3,17 @@
 version = 4
 
 [[package]]
-name = "basic-io"
+name = "basic-io-client"
 version = "0.1.0"
 
 [[package]]
-name = "serde-io"
+name = "basic-io-server"
+version = "0.1.0"
+
+[[package]]
+name = "serde-io-client"
+version = "0.1.0"
+
+[[package]]
+name = "serde-io-server"
 version = "0.1.0"
